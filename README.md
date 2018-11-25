@@ -13,7 +13,7 @@ These are lecture notes and example code for teaching C &amp; C++.  The slides t
 
 Outputs consist of (a) a PDF of the slides, (b) source files for all the examples.
 
-All the shel commands are run within a Docker image.  We use this image from Docker Hub: 
+All the shell commands are run within a Docker image.  We use this image from Docker Hub: 
 
 * [`benlangmead/fedora-cpp-slides`](https://hub.docker.com/r/benlangmead/fedora-cpp-slides/)
 
